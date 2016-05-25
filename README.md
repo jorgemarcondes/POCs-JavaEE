@@ -5,6 +5,7 @@ Tecnologias que devem ser aplicadas:
   - EJB
   - Jersey
   - NoSql(MongoDB ou outro)
+  - Servidor JBoss (Standalone)
 
 Metas
 
